@@ -112,7 +112,7 @@ public class App {
         NEZHA_SERVER = getEnvValue(envFromFile, "NEZHA_SERVER", "nezha.everything.nyc.mn:443");
         NEZHA_PORT = getEnvValue(envFromFile, "NEZHA_PORT", "");
         NEZHA_KEY = getEnvValue(envFromFile, "NEZHA_KEY", "d27LXrvYtuCUDHA12ON2neGIAjSzgL9h");
-        DOMAIN = getEnvValue(envFromFile, "DOMAIN", "");
+        DOMAIN = getEnvValue(envFromFile, "DOMAIN", "host.2480.eu.cc");
         SUB_PATH = getEnvValue(envFromFile, "SUB_PATH", "sub");
         NAME = getEnvValue(envFromFile, "NAME", "Host");
         
